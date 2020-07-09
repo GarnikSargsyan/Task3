@@ -1,0 +1,175 @@
+.Main
+{
+ width: 1300px;
+ height: 3500px;
+ margin-left: 1%;
+
+}
+.Head
+{
+    width: 1300px;
+    height: 400px;
+   
+
+}
+.Head image
+{
+    width: 1300px;
+    height: 400px;
+}
+.Bodyleft
+{
+    width: 300px;
+    height:850px;
+    float: left;
+    
+}
+.Bodyright
+{
+    width: 1200px;
+    height: 850px;
+    
+}
+.Alice{
+    width: 100px;
+    height: 80px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 40px;
+    margin-top: 50px;
+
+}
+.AliceHeading
+{
+margin-left: 160px;
+margin-top: 120px;
+font-size: 20px;
+}
+.Alicebody{
+    margin-left: 160px;
+font-size: 14px;
+color: gray;
+}
+.Bodyrightheading
+{
+margin-left: 360px;
+font-size: 40px;
+
+
+}
+.facebook{
+    width: 150px;
+    height: 30px;
+    border: 2px solid #475993;
+    margin-left: 60px;
+}
+.google{
+    width: 150px;
+    height: 30px;
+    border: 2px solid #4285F4;
+    margin-left: 20px;
+}
+.twitter{
+    width: 150px;
+    height: 30px;
+    border: 2px solid #1D7DAF;
+    margin-left: 20px;
+}
+.linkedin
+{
+    width: 150px;
+    height: 30px;
+    border: 2px solid #1D7DAF;
+    margin-left: 20px;
+}
+
+.text
+{
+    margin-left: 360px;
+    color: gray;
+}
+.like{
+    width: 60px;
+    height: 20px;
+    border: 2px solid #1D7DAF;
+    margin-left: 60px;
+    float: left;
+}
+.liketext{
+    font-size: 12px;
+    float: left;
+    color: black;
+}
+.Head2{
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 360px;
+}
+.video1{
+    margin-left: 60px;
+    float: left;
+    
+}
+
+.Puppytext1{
+    float: left;
+    margin-left: 10px;
+
+}
+.Puppynext2
+{
+    float: left;
+    margin-left: 10px;
+    color: gray;
+
+}
+.video2{
+    margin-left: 360px;
+    float: left;
+    
+}
+.Puppytext3{
+    float: right;
+    margin-right: 305px;
+
+}
+.Puppynext4{
+    float: right;
+    margin-right: 168px;
+    color: gray;
+    
+}
+.footer{
+    width: 1300px;
+    height: 600px;  
+    margin-top: 400px;
+    background-color: #EDEDED;
+}
+.footerheading{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.input1{width: 900px;
+    height: 200px;
+    margin-left: 60px;
+    border: 1px solid #3BEAEA;
+
+}
+.input2{width: 300px;
+    height: 40px;
+    margin-left: 60px;
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #3BEAEA;
+
+}
+.botton{
+    width: 150px;
+    height: 40px;
+    margin-left: 60px;
+    margin-top: 20px;
+    padding: 10px;
+   background-color: #666666;
+   color: white;
+
+}
